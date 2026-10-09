@@ -1,0 +1,5 @@
+.env
+code_breakdown.md
+__pycache__/
+*.pyc
+.idea/
