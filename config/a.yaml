@@ -1,0 +1,11 @@
+fields:
+  - field_name: 栏目
+    field_name_en: Type
+    type: select
+    strategy: Random
+    values: ["新闻", "科技", "娱乐", "体育", "财经"]
+  - field_name: 标题
+    field_name_en: Title
+    type: text
+    strategy: Random
+    values: ["探索人工智能的未来", "最新科技趋势", "娱乐圈八卦", "体育赛事回顾", "财经市场分析"]
